@@ -77,5 +77,5 @@ Data indexing and processing for blockchain events
 
 ## 📫 Contact
 
-* Telegram: @your_handle
+* X: @ByKenzo21
 * GitHub: https://github.com/CaptainFlint21
