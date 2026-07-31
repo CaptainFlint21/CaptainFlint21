@@ -1,81 +1,136 @@
-# 👋 Hi, I'm Flint
+<table>
+<tr>
+<td width="66%" valign="top">
 
-AI / Data / Automation Engineer
+## 👋 Hi, I'm Flint — aka `CaptainFlint21`
 
-Focused on building practical systems for data processing, AI analysis, and workflow automation.
+**AI systems builder, automation engineer, product-minded developer.**
 
----
+I build practical tools where AI, data, infrastructure, and interfaces meet: autonomous workflows, event-driven services, dashboards, developer tooling, and experimental Web3 products.
 
-## ⚙️ Tech Stack
+**System-first engineering. Useful automation. Products that actually run.**
 
-**Languages & Core**
+<br>
 
-* Python (asyncio, aiohttp)
-* SQL (PostgreSQL, MySQL)
-* JavaScript (basic)
+![AI Systems](https://img.shields.io/badge/AI%20Systems-111827?style=flat-square&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-111827?style=flat-square&logo=n8n&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white)
 
-**AI & Data**
+</td>
+<td width="34%" align="center" valign="top">
 
-* OpenAI API (LLM integration)
-* Prompt Engineering
-* Data processing & analysis (Jupyter)
+<img src="./assets/profile-entropy.svg" alt="CaptainFlint21 profile artwork" width="290">
 
-**Infrastructure**
-
-* Linux (Astra Linux / Ubuntu)
-* Docker (basic)
-* Git (GitHub / GitLab)
-
-**Tools**
-
-* Telegram Bot API
-* REST API integration
-* DBeaver, JupyterLab
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Key Projects
+## ⚙️ What I work with
 
-### 🔹 AI Discord → Telegram Notifier
-
-Automated monitoring system with AI-powered message analysis
-
-* Async Python service (discord.py, aiohttp)
-* AI summarization via OpenAI API
-* Smart filtering (keywords, regex)
-* Telegram bot integration
-* Scheduled execution (Railway / cron)
-
----
-
-### 🔹 Blockchain Data Processing (SubQuery)
-
-Data indexing and processing for blockchain events
-
-* GraphQL queries
-* Event aggregation & data extraction
-* Understanding of ETL pipelines in Web3
+```text
+🤖 AI & agents      OpenAI API · Codex · Claude · Hermes · prompt systems
+🧠 Automation       event-driven workflows · Telegram bots · scheduled agents
+🧩 Product          React · Vite · TypeScript · Node.js · Express
+🗄️ Data             PostgreSQL · Supabase · Drizzle ORM · ETL · dashboards
+🐍 Backend           Python · asyncio · aiohttp · REST APIs · parsers
+☁️ Infrastructure   Railway · Netlify · Docker · Linux · GitHub Actions
+⛓️ Web3             Base · ERC-1155 · Pyth Entropy · wallet integrations
+```
 
 ---
 
-## 🧠 Focus Areas
+## 🚀 Selected work
 
-* AI-powered automation
-* Data pipelines & monitoring systems
-* Event-driven architectures
-* Practical AI integration into real workflows
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 [Tower of Entropy](https://github.com/CaptainFlint21/Tower-of-Entropy)
+
+Hybrid Web3 RPG on **Base mainnet** with wallet authentication, ERC-1155 Genesis Packs, off-chain progression, and entropy-driven game mechanics.
+
+`React` `TypeScript` `Node.js` `PostgreSQL` `Pyth`
+
+🌐 [Live project](https://toegame.tech/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 EntropyOS
+
+Personal AI operating system for tasks, schedules, notes, Telegram workflows, autonomous agents, and durable project memory.
+
+`AI agents` `Telegram` `Supabase` `Railway` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 ShotUp
+
+Parser and private analytics dashboard for prediction-card data, with verified exports, quality gates, runtime tooling, and a React interface.
+
+`Python` `PostgreSQL` `Fastify` `React` `Data pipelines`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 [KISA Stack](https://github.com/CaptainFlint21/kisa-stack-v2)
+
+A reusable vibe-coding stack for **Claude Code, Codex CLI, and Hermes**: shared skills, agent policies, hooks, deployment profiles, backup, and rollback.
+
+`Agent tooling` `Codex` `Claude` `Hermes` `Shell`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [ShardBrowser](https://github.com/CaptainFlint21/ShardBrowser)
+
+Open-source browser workspace and launcher with profile isolation, proxy integration, automation APIs, and a bundled MCP interface.
+
+`Rust` `Chromium` `Python SDK` `Node SDK` `MCP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 [PromtFamily](https://github.com/CaptainFlint21/PromtFamily)
+
+A structured collection of prompts and reusable AI workflows designed to work independently or as composable systems.
+
+`Prompt engineering` `Research` `Content systems`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Currently
+## 🧭 Current focus
 
-* Learning advanced AI systems and LLM applications
-* Improving system design & backend architecture
-* Building automation tools for real-world use cases
+- Building reliable AI-agent workflows with memory, tools, and clear operational boundaries.
+- Turning prototypes into deployable products with observable backends and maintainable data flows.
+- Exploring game systems, automation interfaces, and human-in-the-loop AI products.
 
 ---
 
-## 📫 Contact
+## 🛰️ Outside the terminal
 
-* X: @ByKenzo21
-* GitHub: https://github.com/CaptainFlint21
+I follow AI tooling, game systems, crypto infrastructure, product design, and the strange edge where automation becomes a usable product.
+
+Native Russian speaker. English when necessary.
+
+<p align="center">
+  <a href="https://github.com/CaptainFlint21"><img src="https://img.shields.io/badge/GitHub-CaptainFlint21-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://x.com/ByKenzo21"><img src="https://img.shields.io/badge/X-@ByKenzo21-000000?style=for-the-badge&logo=x"></a>
+  <a href="https://toegame.tech/"><img src="https://img.shields.io/badge/Website-toegame.tech-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+</p>
+
+<p align="center"><sub>Building systems that reduce manual work and make ambitious ideas operational.</sub></p>
