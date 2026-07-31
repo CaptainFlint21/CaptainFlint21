@@ -70,42 +70,13 @@ Personal AI operating system for tasks, schedules, notes, Telegram workflows, au
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" width="100%" valign="top">
 
 ### 📊 ShotUp
 
 Parser and private analytics dashboard for prediction-card data, with verified exports, quality gates, runtime tooling, and a React interface.
 
 `Python` `PostgreSQL` `Fastify` `React` `Data pipelines`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧰 [KISA Stack](https://github.com/CaptainFlint21/kisa-stack-v2)
-
-A reusable vibe-coding stack for **Claude Code, Codex CLI, and Hermes**: shared skills, agent policies, hooks, deployment profiles, backup, and rollback.
-
-`Agent tooling` `Codex` `Claude` `Hermes` `Shell`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [ShardBrowser](https://github.com/CaptainFlint21/ShardBrowser)
-
-Open-source browser workspace and launcher with profile isolation, proxy integration, automation APIs, and a bundled MCP interface.
-
-`Rust` `Chromium` `Python SDK` `Node SDK` `MCP`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 [PromtFamily](https://github.com/CaptainFlint21/PromtFamily)
-
-A structured collection of prompts and reusable AI workflows designed to work independently or as composable systems.
-
-`Prompt engineering` `Research` `Content systems`
 
 </td>
 </tr>
@@ -130,7 +101,6 @@ Native Russian speaker. English when necessary.
 <p align="center">
   <a href="https://github.com/CaptainFlint21"><img src="https://img.shields.io/badge/GitHub-CaptainFlint21-181717?style=for-the-badge&logo=github"></a>
   <a href="https://x.com/ByKenzo21"><img src="https://img.shields.io/badge/X-@ByKenzo21-000000?style=for-the-badge&logo=x"></a>
-  <a href="https://toegame.tech/"><img src="https://img.shields.io/badge/Website-toegame.tech-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
 
 <p align="center"><sub>Building systems that reduce manual work and make ambitious ideas operational.</sub></p>
