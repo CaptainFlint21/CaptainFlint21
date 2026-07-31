@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="540" viewBox="0 0 360 540" role="img" aria-labelledby="title desc">
+  <title id="title">CaptainFlint21 — entropy systems</title>
+  <desc id="desc">A dark futuristic tower surrounded by flowing entropy particles.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#160f2b"/>
+    </linearGradient>
+    <linearGradient id="tower" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="0.45" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="52%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.34"/>
+      <stop offset="0.52" stop-color="#8b5cf6" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="smallGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="360" height="540" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="358" height="538" rx="17" fill="none" stroke="#30363d"/>
+  <ellipse cx="180" cy="234" rx="170" ry="195" fill="url(#glow)"/>
+
+  <g opacity="0.9" fill="#e0f2fe">
+    <circle cx="49" cy="63" r="1.4"/><circle cx="86" cy="112" r="1"/><circle cx="304" cy="79" r="1.3"/>
+    <circle cx="278" cy="139" r="0.9"/><circle cx="326" cy="203" r="1.2"/><circle cx="41" cy="218" r="1"/>
+    <circle cx="82" cy="286" r="1.4"/><circle cx="302" cy="304" r="1"/><circle cx="54" cy="377" r="1.2"/>
+    <circle cx="315" cy="411" r="1.4"/><circle cx="104" cy="454" r="0.9"/><circle cx="266" cy="475" r="1.1"/>
+  </g>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M37 335C99 280 104 193 178 155C252 117 280 67 326 36" stroke="#38bdf8" stroke-opacity="0.28" stroke-width="1.5"/>
+    <path d="M28 404C91 373 111 311 169 289C246 260 285 203 334 142" stroke="#a78bfa" stroke-opacity="0.3" stroke-width="1.2"/>
+    <path d="M60 105C123 134 135 196 184 214C260 242 294 318 325 374" stroke="#60a5fa" stroke-opacity="0.19" stroke-width="1"/>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <circle cx="180" cy="151" r="8" fill="#e0f2fe"/>
+    <circle cx="180" cy="151" r="22" fill="none" stroke="#7dd3fc" stroke-opacity="0.7"/>
+    <circle cx="180" cy="151" r="39" fill="none" stroke="#8b5cf6" stroke-opacity="0.28"/>
+  </g>
+
+  <g>
+    <path d="M180 174L222 229L208 421H152L138 229Z" fill="#111827" stroke="url(#tower)" stroke-width="2"/>
+    <path d="M180 174L196 228L191 421H169L164 228Z" fill="url(#tower)" opacity="0.72"/>
+    <path d="M138 229H222" stroke="#7dd3fc" stroke-opacity="0.8"/>
+    <path d="M148 272H212M145 321H215M142 371H218" stroke="#818cf8" stroke-opacity="0.45"/>
+    <path d="M125 421H235L257 452H103Z" fill="#0b1220" stroke="#8b5cf6" stroke-opacity="0.65"/>
+    <path d="M91 452H269" stroke="#7dd3fc" stroke-opacity="0.5" stroke-width="2"/>
+  </g>
+
+  <g filter="url(#smallGlow)">
+    <circle cx="113" cy="188" r="3" fill="#38bdf8"/>
+    <circle cx="250" cy="249" r="3" fill="#a78bfa"/>
+    <circle cx="101" cy="334" r="2.5" fill="#818cf8"/>
+    <circle cx="274" cy="367" r="2.5" fill="#38bdf8"/>
+  </g>
+
+  <text x="180" y="492" text-anchor="middle" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700" letter-spacing="2">CAPTAINFLINT21</text>
+  <text x="180" y="516" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.8">BUILD · AUTOMATE · EXPLORE</text>
+</svg>
