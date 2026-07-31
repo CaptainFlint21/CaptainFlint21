@@ -22,7 +22,7 @@ I build practical tools where AI, data, infrastructure, and interfaces meet: aut
 </td>
 <td width="34%" align="center" valign="top">
 
-<img src="./assets/profile-cyberpunk-anime.jpg" alt="Cyberpunk anime mascot looking up at neon skyscrapers" width="290">
+<img src="./assets/9a06010a-7c46-4afc-b0ae-94fa180dbeee.png" alt="Cyberpunk anime mascot looking up at neon skyscrapers" width="290">
 
 </td>
 </tr>
