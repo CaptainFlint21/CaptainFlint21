@@ -85,7 +85,6 @@ Hybrid Web3 RPG on **Base mainnet** with wallet authentication, ERC-1155 Genesis
 
 `React` `TypeScript` `Node.js` `PostgreSQL` `Pyth`
 
-🌐 [Live project](https://toegame.tech/)
 
 </td>
 </tr>
