@@ -68,7 +68,7 @@ Decision and forecasting layer built on top of ShotUp. It combines rules-gated p
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" width="100%" valign="top">
 
 ### 🖥️ AI Workstation / Workflow
 
@@ -77,18 +77,8 @@ Linux-first workstation architecture for daily agent work. Hermes is the univers
 `Hermes` `MCP` `Docker` `Linux` `CDP`
 
 </td>
-<td width="50%" valign="top">
-
-### 🎮 Tower of Entropy
-
-Hybrid Web3 RPG on **Base mainnet** with wallet authentication, ERC-1155 Genesis Packs, off-chain progression, and Pyth Entropy driven game mechanics. The system combines on-chain ownership checks with backend-verified progression and summon flows.
-
-`React` `TypeScript` `Node.js` `PostgreSQL` `Pyth`
-
-</td>
 </tr>
 </table>
-
 ---
 
 ## 🧭 Current focus
@@ -97,14 +87,6 @@ Hybrid Web3 RPG on **Base mainnet** with wallet authentication, ERC-1155 Genesis
 - Making research and data pipelines resilient to partial failures instead of silently turning transport errors into facts.
 - Designing decision systems where evidence, probability, confidence, and economic value remain separate layers.
 - Consolidating local AI work around a Linux-first workstation with replaceable providers, browser sessions, MCP, and containerized execution.
-
----
-
-## 🧪 Also building
-
-**EntropyOS** explores task, schedule, notes, Telegram, and agent workflows in a personal AI operating system.
-
-I also use smaller repositories to test browser automation, local agent runtimes, UI ideas, model tooling, and infrastructure patterns before they graduate into larger systems.
 
 ---
 
