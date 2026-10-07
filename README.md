@@ -81,10 +81,9 @@ Linux-first workstation architecture for daily agent work. Hermes is the univers
 
 ### 🎮 Tower of Entropy
 
-Hybrid Web3 RPG on **Base mainnet** with wallet authentication, ERC-1155 Genesis Packs, off-chain progression, and Pyth Entropy driven game mechanics.
+Hybrid Web3 RPG on **Base mainnet** with wallet authentication, ERC-1155 Genesis Packs, off-chain progression, and Pyth Entropy driven game mechanics. The system combines on-chain ownership checks with backend-verified progression and summon flows.
 
 `React` `TypeScript` `Node.js` `PostgreSQL` `Pyth`
-
 
 </td>
 </tr>
